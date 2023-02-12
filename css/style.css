@@ -7,13 +7,13 @@
   box-sizing: border-box; }
 
 body {
-  background: #F2F3F8;
+  background: #575757;
   font-family: "Montserrat", sans-serif; }
 
 .container {
   width: 1177px;
   margin: 0 auto;
-  background: #FFFFFF; }
+  background: 575757; }
 
 .header-top {
   display: flex;
@@ -23,7 +23,7 @@ body {
   padding: 1em; }
 
 .contact {
-  width: 33.33%; }
+  width: 40%; }
 
 .icon-phone,
 .icon-email,
@@ -83,7 +83,7 @@ hr {
 .icon-graduation {
   padding: .7em;
   font-size: 2em;
-  color: #242f9b; }
+  color: #9BA3EB; }
 
 .active1 {
   color: #242f9b;
@@ -316,7 +316,7 @@ hr {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    background: #E65A5B;
+    background: #9BA3EB;
     bottom: -80px;
     left: 0;
     right: 0;
